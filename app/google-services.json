@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "977649500747",
+    "firebase_url": "https://administrartiquets.firebaseio.com",
+    "project_id": "administrartiquets",
+    "storage_bucket": "administrartiquets.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977649500747:android:9b69009a81e8a0cc",
+        "android_client_info": {
+          "package_name": "josep.com.firebaseadmintiquets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977649500747-n7ncp1t59agu3899hqus6q18g6qjbn0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN3SY1xEj8RZcXA83pGaqiUtoVxjwb05I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977649500747:android:829a94cf6285385a",
+        "android_client_info": {
+          "package_name": "josep.com.firebaseenintents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977649500747-n7ncp1t59agu3899hqus6q18g6qjbn0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN3SY1xEj8RZcXA83pGaqiUtoVxjwb05I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
